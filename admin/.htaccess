@@ -1,0 +1,5 @@
+AddDefaultCharset UTF-8
+RewriteEngine on
+
+# Rewrite mode tin tuc #
+RewriteRule ^index.html index.php

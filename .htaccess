@@ -1,0 +1,15 @@
+AddDefaultCharset UTF-8
+RewriteEngine on
+
+# Rewrite mode tin tuc #
+RewriteRule ^index.html index.php
+RewriteRule ^contact.html contact.php
+RewriteRule ^shop-single.html shop-single.php
+RewriteRule ^shop.html shop.php
+RewriteRule ^about.html about.php
+RewriteRule ^nhannuoi.html nhannuoi.php
+RewriteRule ^ungho.html ungho.php
+RewriteRule ^cart.html cart.php
+RewriteRule ^bill.html bill.php
+RewriteRule ^nhannuoi-single.html nhannuoi-single.php
+RewriteRule ^shop-single.html shop-single.php
